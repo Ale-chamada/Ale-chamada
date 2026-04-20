@@ -81,11 +81,9 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?Ale-chamada&show_icons=true&theme=default)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ale-chamada&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Ale-chamada&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-chamada&layout=compact)
 
 ## 🌐 Connect With Me
 
